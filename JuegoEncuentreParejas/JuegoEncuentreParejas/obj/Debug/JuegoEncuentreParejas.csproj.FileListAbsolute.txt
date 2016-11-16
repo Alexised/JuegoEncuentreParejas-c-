@@ -1,0 +1,9 @@
+C:\Users\salak401\Downloads\JuegoEncuentreParejas\JuegoEncuentreParejas\bin\Debug\JuegoEncuentreParejas.exe.config
+C:\Users\salak401\Downloads\JuegoEncuentreParejas\JuegoEncuentreParejas\bin\Debug\JuegoEncuentreParejas.exe
+C:\Users\salak401\Downloads\JuegoEncuentreParejas\JuegoEncuentreParejas\bin\Debug\JuegoEncuentreParejas.pdb
+C:\Users\salak401\Downloads\JuegoEncuentreParejas\JuegoEncuentreParejas\obj\Debug\JuegoEncuentreParejas.Form1.resources
+C:\Users\salak401\Downloads\JuegoEncuentreParejas\JuegoEncuentreParejas\obj\Debug\JuegoEncuentreParejas.Properties.Resources.resources
+C:\Users\salak401\Downloads\JuegoEncuentreParejas\JuegoEncuentreParejas\obj\Debug\JuegoEncuentreParejas.csproj.GenerateResource.Cache
+C:\Users\salak401\Downloads\JuegoEncuentreParejas\JuegoEncuentreParejas\obj\Debug\JuegoEncuentreParejas.exe
+C:\Users\salak401\Downloads\JuegoEncuentreParejas\JuegoEncuentreParejas\obj\Debug\JuegoEncuentreParejas.pdb
+C:\Users\salak401\Downloads\JuegoEncuentreParejas\JuegoEncuentreParejas\obj\Debug\JuegoEncuentreParejas.csprojResolveAssemblyReference.cache
